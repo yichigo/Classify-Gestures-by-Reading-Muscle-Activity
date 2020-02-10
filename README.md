@@ -30,4 +30,4 @@ To run the codes, open Jupyter Notebook and go to the folder ./src/
 
 For example, if you want to run the Decision Tree (DT) model, open DT.ipynb and run it.
 
-Similarly for the other models.
+Similarly for the other models.# Classify-Gestures-by-Reading-Muscle-Activity
